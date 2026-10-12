@@ -204,3 +204,31 @@ Use the following manual test scenarios:
 ### 12. Conclusion
 
 Wrench Wise Banking AI demonstrates how a supervisor-orchestrator can coordinate multiple specialized agents in a simulated banking environment. By combining Python-based banking tools, SQLite, Gemini, and Streamlit, the project illustrates multi-agent automation and natural-language interaction in a practical financial-services use case.
+
+
+
+
+
+### 13. Output
+
+#### userinterface
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc5c202f-90e8-4cfa-9b75-37bc0ad9682b" />
+
+
+#### person change
+
+
+<img width="370" height="915" alt="image" src="https://github.com/user-attachments/assets/15330e2c-617f-4226-95a7-88f81d834c74" />
+
+
+#### AI-responce
+
+
+<img width="1528" height="913" alt="image" src="https://github.com/user-attachments/assets/03a087ba-5965-4b57-8f34-8a3d2e3512d9" />
+<img width="1347" height="413" alt="image" src="https://github.com/user-attachments/assets/104c0b92-9e02-48c0-b13d-cac6bc676ba1" />
+<img width="1346" height="647" alt="image" src="https://github.com/user-attachments/assets/4d54a88a-6295-4310-843b-4f1a92103ebd" />
+
+
+
